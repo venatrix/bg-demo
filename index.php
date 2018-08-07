@@ -62,7 +62,7 @@
             <li>Basic</li>
           </ol>
           <h1>Welcome to an OpenShift Application!</h1>
-          <p>The purpose of this application is to demonstrate BLUE - GREEN deployment.!</p>
+          <p>The purpose of this application is to Demonstrate BLUE - GREEN Deployment in Openshift</p>
         </div>
       </div>
       <div class="row">
